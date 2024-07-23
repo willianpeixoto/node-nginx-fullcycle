@@ -26,10 +26,9 @@ Este projeto consiste em gerar uma imagem docker que tenha uma aplicação Node 
 Ao acessar a aplicação pela porta 8080 a mesma irá incluir um valor no banco de dados, mostrar a frase "Full Cycle Rocks!!" e listar os nomes cadastrados no banco.
 
 <br/>
+Na raiz do projeto executar o comando a seguir:
 
-- docker pull willianfpeixoto/node-nginx-fullcycle
+<br/>
 
--  docker-compose up -d willianfpeixoto/node-nginx-fullcycle
-
-- Dockerhub: [https://hub.docker.com/r/willianfpeixoto/node-nginx-fullcycle](https://hub.docker.com/r/willianfpeixoto/node-nginx-fullcycle)
+-  docker-compose up -d
 </h5>
