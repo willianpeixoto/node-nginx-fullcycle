@@ -30,5 +30,5 @@ Na raiz do projeto executar o comando a seguir:
 
 <br/>
 
--  docker-compose up -d
+-  docker-compose up -d ou docker-compose up -d --build
 </h5>

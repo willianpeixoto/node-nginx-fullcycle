@@ -1,0 +1,5 @@
+#Ignora pasta db existente dentro do diretório mysql
+mysql/db/
+
+#Ignora node_modules dentro do diretório node
+node/node_modules/
